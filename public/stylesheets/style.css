@@ -1,0 +1,10 @@
+body {
+  padding: 50px;
+  font: 20px "Verdana", Helvetica, Arial, sans-serif;
+  color: dodgerblue;
+  -webkit-text-stroke: 1px black;
+}
+
+a {
+  color: #00B7FF;
+}
